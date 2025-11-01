@@ -1,3 +1,4 @@
 i=0
-while i<=0:
-    print("ir")
+while i<0:
+    print("infinite loop")
+    
